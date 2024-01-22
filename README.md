@@ -8,7 +8,7 @@
 </p>
 
 <p style="position: relative; z-index: 1;"  align="center">
-  <a href="mailto:beatriznunez601@gmail.com">
+  <a href="yasir12bouazzati@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ana-beatriz-nunes/" target="_blank">
