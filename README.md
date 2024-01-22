@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to my profile!
-  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
+  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" />
 </h1>
 
 <p style="position: relative; z-index: 1;"  align="center">
@@ -22,7 +22,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 <div>
