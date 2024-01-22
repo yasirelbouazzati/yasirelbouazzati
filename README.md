@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to my profile!
-  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
+  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" />
 </h1>
 
 <p style="position: relative; z-index: 1;"  align="center">
@@ -8,10 +8,10 @@
 </p>
 
 <p style="position: relative; z-index: 1;"  align="center">
-  <a href="mailto:beatriznunez601@gmail.com">
+  <a href="mailto:yasir12bouazzati@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-nunes/" target="_blank">
+   <a href="https://www.linkedin.com/in/yasir-el-bouazzati-1846832a1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -22,7 +22,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
 </div>
 <div>
@@ -47,12 +46,5 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white">
 </div>
 
-## &#128202; GitHub Profile Stats
 
-<p align="center">
-  <img alt="ananuness' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ananuness&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9" height="192px"/>
-  <img alt="ananuness' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuness&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&hide=Jupyter%20Notebook" height="192px"/>
-  <br />
-  <b>Note:</b> it doesn't reflect experience or skill level.
-  <br />
 </p>
