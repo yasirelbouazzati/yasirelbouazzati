@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://www.instagram.com/yasirelbouazzati/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%ff0080.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-ff0080.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
