@@ -35,7 +35,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-fc5c38?style=flat-square&logo=git&logoColor=white">
 </div>
 <div>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-fc5c38?style=flat-square&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0766f5?style=flat-square&logo=python&logoColor=white">
 </div>
 
 
