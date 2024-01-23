@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!" />
 </p>
 
- <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="100" height="100" />
+ <img style="margin-left: 50px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="200" height="200" />
 
 
 <p style="position: relative; z-index: 1;"  align="center">
