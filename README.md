@@ -14,6 +14,9 @@
    <a href="https://www.linkedin.com/in/yasir-el-bouazzati-1846832a1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://www.instagram.com/yasirelbouazzati/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%ff0080.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ## 👨‍💻 Technologies 
