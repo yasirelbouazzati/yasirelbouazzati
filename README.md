@@ -16,8 +16,8 @@
   </a>
 </p>
 
-## 👨‍💻 Technologies
-<img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" />
+## 👨‍💻 Technologies 
+
 
 <div>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
