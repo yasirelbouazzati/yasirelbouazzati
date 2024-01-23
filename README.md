@@ -14,7 +14,9 @@
    <a href="https://www.linkedin.com/in/yasir-el-bouazzati-1846832a1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<div> <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" /> </div>
+<div> 
+  <img alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" />
+</div>
 </p>
 
 ## 👨‍💻 Technologies 
