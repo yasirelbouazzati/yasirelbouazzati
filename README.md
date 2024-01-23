@@ -34,7 +34,7 @@
 </div>
 <div>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0766f5?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ff5324?style=flat-square&logo=git&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-0766f5?style=flat-square&logo=python&logoColor=white">
 </div>
 <div>
