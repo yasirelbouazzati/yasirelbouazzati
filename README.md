@@ -34,12 +34,12 @@
 </div>
 <div>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0766f5?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-fc5c38?style=flat-square&logo=git&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-0766f5?style=flat-square&logo=python&logoColor=white">
 </div>
 <div>
   <img alt="Php" src="https://img.shields.io/badge/-Php-7930d9?style=flat-square&logo=php&logoColor=white">
-    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-FF0000?style=flat-square&logo=arduino&logoColor=white">
+    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00aff0?style=flat-square&logo=arduino&logoColor=white">
 </div>
 
 
