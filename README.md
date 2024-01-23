@@ -29,7 +29,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
 </div>
 <div>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00aff0?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0766f5?style=flat-square&logo=mysql&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/-Git-fc5c38?style=flat-square&logo=git&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-0766f5?style=flat-square&logo=python&logoColor=white">
 </div>
