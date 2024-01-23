@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 👩‍💻 Technologies
+## 👨‍💻 Technologies
 
 <div>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
