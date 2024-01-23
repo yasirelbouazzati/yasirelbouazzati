@@ -7,6 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!" />
 </p>
 
+ <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="35" height="35" />
+
+
 <p style="position: relative; z-index: 1;"  align="center">
   <a href="mailto:yasir12bouazzati@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
