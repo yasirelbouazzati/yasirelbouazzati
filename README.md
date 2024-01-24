@@ -40,6 +40,7 @@
 <div>
   <img alt="Php" src="https://img.shields.io/badge/-Php-7930d9?style=flat-square&logo=php&logoColor=white">
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00aff0?style=flat-square&logo=arduino&logoColor=white">
+     <img alt="Java" src="https://img.shields.io/badge/-Java-00aff0?style=flat-square&logo=java&logoColor=white">
 </div>
 
 
