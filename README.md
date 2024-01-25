@@ -1,6 +1,5 @@
 <h1 align="center">
   Welcome to my profile!
-  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
 </h1>
 
 <p style="position: relative; z-index: 1;"  align="center">
