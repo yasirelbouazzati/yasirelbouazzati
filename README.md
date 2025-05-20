@@ -27,9 +27,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
 </div>
 <div>
-  <img alt="React" src="https://img.shields.io/badge/-React-00aff0?style=flat-square&logo=react&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7930d9?style=flat-square&logo=bootstrap&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
 </div>
 <div>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0766f5?style=flat-square&logo=mysql&logoColor=white">
